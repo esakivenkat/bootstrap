@@ -8,7 +8,7 @@ using System.Data;
 using intselva.Models;
 
 namespace intselva.Controllers
-{
+{https://social.msdn.microsoft.com/Forums/vstudio/en-US/a50918c9-fcce-41e3-8a55-63aaaa17ebf0/c-program-to-calculate-age-and-astrlogical-sign?forum=netfxbcl
     public class HomeController : Controller
     {
         SqlConnection con = null;
